@@ -7,9 +7,6 @@ Este programa consiste em receber dois inputs de valores inteiros do usuário e 
 - Descrição
 - Features
 - Demonstração da Aplicação
-- Pré-requisitos
-- Como rodar a aplicação/testes
-- Tecnologias utilizadas
 
 ## Descrição
 
