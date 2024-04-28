@@ -1,6 +1,6 @@
 # Contador em Java
 
-Este é um programa simples em Java que conta a diferença entre dois números.
+Este programa consiste em receber dois inputs de valores inteiros do usuário e imprimir na tela um contador que inicia em 1 e vai até a diferença entre o segundo valor e o primeiro valor. Caso o segundo valor seja menor que o primeiro, uma exceção é lançada com sua respectiva mensagem.
 
 ## Tabela de Conteúdos
 
